@@ -2,7 +2,7 @@
 This is a full screen Resgistration form taking one input at a time with best animations.
 
 <br>
-All thanks to Fuerte Developers,check website  <a href="https://www.fuertedevelopers.com" > here</a>
+Thanks to Fuerte Developers,check website  <a href="https://www.fuertedevelopers.com" > here</a>
 <br>
 
 # Screenshots
